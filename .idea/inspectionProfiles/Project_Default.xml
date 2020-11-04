@@ -1,0 +1,91 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="80" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="space" />
+            <item index="1" class="java.lang.String" itemvalue="vspace" />
+            <item index="2" class="java.lang.String" itemvalue="controlslist" />
+            <item index="3" class="java.lang.String" itemvalue="leftmargin" />
+            <item index="4" class="java.lang.String" itemvalue="topmargin" />
+            <item index="5" class="java.lang.String" itemvalue="oncontextmenu" />
+            <item index="6" class="java.lang.String" itemvalue="ondragstart" />
+            <item index="7" class="java.lang.String" itemvalue="onselectstart" />
+            <item index="8" class="java.lang.String" itemvalue="onselect" />
+            <item index="9" class="java.lang.String" itemvalue="oncopy" />
+            <item index="10" class="java.lang.String" itemvalue="onbeforecopy" />
+            <item index="11" class="java.lang.String" itemvalue="security" />
+            <item index="12" class="java.lang.String" itemvalue="seamless" />
+            <item index="13" class="java.lang.String" itemvalue="action" />
+            <item index="14" class="java.lang.String" itemvalue="method" />
+            <item index="15" class="java.lang.String" itemvalue="c:if" />
+            <item index="16" class="java.lang.String" itemvalue="}" />
+            <item index="17" class="java.lang.String" itemvalue="name" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="style" />
+            <item index="7" class="java.lang.String" itemvalue="div" />
+            <item index="8" class="java.lang.String" itemvalue="span" />
+            <item index="9" class="java.lang.String" itemvalue="table" />
+            <item index="10" class="java.lang.String" itemvalue="h4" />
+            <item index="11" class="java.lang.String" itemvalue="form" />
+            <item index="12" class="java.lang.String" itemvalue="td" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStatementEffectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="register.views.register.simple_tag" />
+          <option value="register.views.register.inclusion_tag" />
+          <option value="fdfs_client.fdfs_client.client.*" />
+          <option value="fdfs_client.client" />
+          <option value="requests.api.request.method" />
+          <option value="requests.api.request.POST" />
+          <option value="upload.views.FastDFSStorage.method" />
+          <option value="Authon" />
+          <option value="typing.TextIO.*" />
+          <option value="register.Register.db" />
+          <option value="register.Register.mysql" />
+          <option value="App.views.index.status" />
+          <option value="App.views.django" />
+          <option value="App.views.count_data" />
+          <option value="easydict.EasyDict.hits" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
